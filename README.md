@@ -1,1 +1,1 @@
-# treinamento-backend
+# Gerenciamento de treinamentos
